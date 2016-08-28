@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace MyFramework
 {
-    /// <summary>
-    /// 测试类
-    /// </summary>
-    public class Test
+    public class Class1
     {
     }
 }
