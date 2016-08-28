@@ -11,7 +11,6 @@ namespace MyFramework
     /// </summary>
     public class Class1
     {
-        string _commom = "11";
-        string _commom = "1123";
+        string _commom = "11234";
     }
 }
